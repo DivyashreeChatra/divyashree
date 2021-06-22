@@ -1,0 +1,7 @@
+C:\Users\divyashree.chatra\source\repos\Examples\Demo\bin\Debug\Demo.exe.config
+C:\Users\divyashree.chatra\source\repos\Examples\Demo\bin\Debug\Demo.exe
+C:\Users\divyashree.chatra\source\repos\Examples\Demo\bin\Debug\Demo.pdb
+C:\Users\divyashree.chatra\source\repos\Examples\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\divyashree.chatra\source\repos\Examples\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\divyashree.chatra\source\repos\Examples\Demo\obj\Debug\Demo.exe
+C:\Users\divyashree.chatra\source\repos\Examples\Demo\obj\Debug\Demo.pdb
