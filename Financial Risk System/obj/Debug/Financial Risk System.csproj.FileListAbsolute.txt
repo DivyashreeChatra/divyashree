@@ -1,0 +1,7 @@
+C:\Users\divyashree.chatra\source\repos\Financial Risk System\Financial Risk System\bin\Debug\Financial Risk System.exe.config
+C:\Users\divyashree.chatra\source\repos\Financial Risk System\Financial Risk System\bin\Debug\Financial Risk System.exe
+C:\Users\divyashree.chatra\source\repos\Financial Risk System\Financial Risk System\bin\Debug\Financial Risk System.pdb
+C:\Users\divyashree.chatra\source\repos\Financial Risk System\Financial Risk System\obj\Debug\Financial Risk System.csprojResolveAssemblyReference.cache
+C:\Users\divyashree.chatra\source\repos\Financial Risk System\Financial Risk System\obj\Debug\Financial Risk System.csproj.CoreCompileInputs.cache
+C:\Users\divyashree.chatra\source\repos\Financial Risk System\Financial Risk System\obj\Debug\Financial Risk System.exe
+C:\Users\divyashree.chatra\source\repos\Financial Risk System\Financial Risk System\obj\Debug\Financial Risk System.pdb
